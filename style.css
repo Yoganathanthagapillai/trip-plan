@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    text-align: center;
+    border:3px solid black;
+    border-style: dashed;
+   
+    display: inline-block;
+    margin-left: 40%;
+}
+h1:hover{
+    background-color: red;
+}
+.marina{
+    
+    margin-left: 10px;
+
+}
+.maha{
+    margin-left: 150px;
+}
+.dhanush{
+    margin-left: 150px;
+}
+.img1 img{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.img2 img{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    margin-left: 140px;
+    border: 5px solid black;
+}
+.img3 img{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    margin-left: 140px;
+    border: 5px solid black;
+}
+.p1{
+    margin-left: 10px;
+}
+.p2{
+    margin-left: 150px;
+}
+.p3{
+    margin-left: 150px;
+}
+.child{
+    display: flex;
+    flex-direction: row;
+}
+.img4 img{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    border: 5px solid black;
+}
+.img5 img{
+    width: 400px;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 140px;
+    border: 5px solid black;
+}
+.img6 img{
+    width: 400px;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 140px;
+    border: 5px solid black;
+}
+.meenakshi{
+    margin-left: 10px;
+}
+.kodaikanal{
+    margin-left: 150px;
+}
+.ooty{
+    margin-left: 150px; 
+}
+.p4{
+    margin-left: 10px; 
+    
+}
+.p5{
+    margin-left: 150px; 
+}
+.p6{
+    margin-left: 150px;  
+}
+button{
+    margin-left: 150px;
+    color: blue;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+button:hover{
+    background-color: red;
+}
+.button1{
+    margin-left: 300px;
+    color: blue;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.button1:hover{
+    background-color: red;
+}
+.footer{
+
+    color: brown;
+    background-color: aquamarine;
+    padding: 1%;
+    display: inline-block;
+    border:3px solid black;
+    border-style: dotted;
+    margin-left: 46%;
+}
+.footer:hover{
+    background-color: red;
+    color: aliceblue;
+}    
